@@ -30,4 +30,4 @@ You need to add your own API key in the Javascript file
 4. Enter city name to get weather details
 
 ## 📸 Screenshot
-[App Screenshot]{SS.jpeg}
+![App Screenshot](SS.jpeg)
